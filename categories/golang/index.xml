@@ -6,14 +6,32 @@
     <description>Recent content in GoLang on 哈哈哈</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Nov 2021 11:53:15 +0800</lastBuildDate><atom:link href="https://ohh-wang.github.io/categories/golang/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Nov 2021 11:53:15 +0800</lastBuildDate><atom:link href="https://ohh-wang.github.io/categories/golang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>three</title>
+      <link>https://ohh-wang.github.io/post/three/</link>
+      <pubDate>Mon, 22 Nov 2021 11:53:15 +0800</pubDate>
+      
+      <guid>https://ohh-wang.github.io/post/three/</guid>
+      <description>Hello Hugo aaa bbb ccc666   列表66  </description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>https://ohh-wang.github.io/post/first/</link>
+      <pubDate>Fri, 19 Nov 2021 11:53:15 +0800</pubDate>
+      
+      <guid>https://ohh-wang.github.io/post/first/</guid>
+      <description>Hello Hugo aaa bbb ccc   哈哈哈哈哈666  </description>
+    </item>
+    
     <item>
       <title>second</title>
       <link>https://ohh-wang.github.io/post/second/</link>
       <pubDate>Fri, 19 Nov 2021 11:53:15 +0800</pubDate>
       
       <guid>https://ohh-wang.github.io/post/second/</guid>
-      <description>Hello Hugo aaa bbb ccc  </description>
+      <description>Hello Hugo aaa bbb ccc666   列表66  </description>
     </item>
     
   </channel>
